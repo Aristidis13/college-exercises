@@ -17,3 +17,11 @@ That was my first lab attendance in College. It was awful until I understood wha
 
 # Microprogramming Lab
 That lab was the lowest form of programming and by studying this subject I could see why it has been abandoned for almost three decades now. Microprogramming is like talking to the machines at their Language, which in a way, that's exactly what it is.
+
+# cpp-small-projects
+This is a compilation for a variety of small exercises for C++. Some were purely theoritical and can be answered by studying the code while others are a bit more "complex" and demand code development. Main Goal was to highlight differences of C++ from Java and procedural C and also study how C++ executes under the hood.
+
+The .rar file contains 3 folders 
+1) Exercises for Cpp --> Contains the exercises I created from scratch
+2) Lab Exercises --> Contains me answers in some of the laboratory exercises.
+
